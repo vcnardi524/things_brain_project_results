@@ -7,22 +7,9 @@ The architectures we used were LDMs, MLPs, and convulational auto-encoders.
 
 This repo contains two images. One image contains reconstructions made from fMRI scans; call this image RI. The other contains the ground truth image; call this image GTI. Note that index RI_ij corresponds with index GTI_ij. That is, the reconstructed image found in image RI at index ij corresponds to the reconstruction of the image in GTI at index ij.
 
-<div style="display: flex; gap: 16px; margin-bottom: 16px;">
-  <img src="images/RI1.png" alt="RI1" width="45%">
-  <img src="images/GTI1.png" alt="GTI1" width="45%">
-</div>
-
-<div style="display: flex; gap: 16px; margin-bottom: 16px;">
-  <img src="images/RI2.png" alt="RI2" width="45%">
-  <img src="images/GTI2.png" alt="GTI2" width="45%">
-</div>
-
-<div style="display: flex; gap: 16px; margin-bottom: 16px;">
-  <img src="images/RI3.png" alt="RI3" width="45%">
-  <img src="images/GTI3.png" alt="GTI3" width="45%">
-</div>
-
-<div style="display: flex; gap: 16px; margin-bottom: 16px;">
-  <img src="images/RI4.png" alt="RI4" width="45%">
-  <img src="images/GTI4.png" alt="GTI4" width="45%">
-</div>
+| RI | GTI |
+|----|-----|
+| ![](images/RI1.png) | ![](images/GTI1.png) |
+| ![](images/RI2.png) | ![](images/GTI2.png) |
+| ![](images/RI3.png) | ![](images/GTI3.png) |
+| ![](images/RI4.png) | ![](images/GTI4.png) |
