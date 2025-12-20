@@ -3,6 +3,9 @@
 
 Contributors: 
 - @vcnardi524
+- Eirini Schoinas
+- Emily Hu
+- Julia Novick
 
 
 Our project was to generate images from a subject’s fMRI that corresponded with the image the subject was viewing when the fMRI was taken. We used the THINGS dataset for this project.
