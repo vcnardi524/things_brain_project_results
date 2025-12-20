@@ -1,4 +1,0 @@
-<div style="display: flex; gap: 16px; margin-bottom: 16px;">
-  <img src="images/RI1.png" alt="RI1" width="45%">
-  <img src="images/GTI1.png" alt="GTI1" width="45%">
-</div>
