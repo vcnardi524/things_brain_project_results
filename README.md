@@ -22,6 +22,4 @@ This repo contains two images. One image contains reconstructions made from fMRI
 | ![](images/RI4.png) | ![](images/GTI4.png) |
 
 
-THINGS citation:
-
 Hebart, Martin; Contier, Oliver; Teichmann, Lina; Rockter, Adam; Zheng, Charles; Kidder, Alexis; et al. (2023). THINGS-data: A multimodal collection of large-scale datasets for investigating object representations in brain and behavior. Figshare+. Collection. https://doi.org/10.25452/figshare.plus.c.6161151
