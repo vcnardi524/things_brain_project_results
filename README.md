@@ -3,7 +3,7 @@
 
 Contributors: 
 - @vcnardi524
-- Eirini Schoinas
+- @eirinischoinas
 - Emily Hu
 - Julia Novick
 
