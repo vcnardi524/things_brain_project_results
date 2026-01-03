@@ -1,5 +1,5 @@
 # Things Brain Project Results
-## UCSB Dynamo Undergrads
+## UCSB Dynamo Lab Undergrads
 
 Contributors: 
 - @vcnardi524
